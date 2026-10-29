@@ -6,8 +6,10 @@ I'm developing my skills in DevOps, cloud operations and service reliability thr
 
 ## Projects
 
-- [ServicePulse](https://github.com/kaciczak0211/service-pulse) — A FastAPI service for registering HTTP endpoints and running on-demand health checks, with PostgreSQL, Docker Compose and NGINX.
-- [System monitoring](https://github.com/kaciczak0211/system_monitoring) — A Python metrics exporter with Prometheus and Grafana configuration, including a provisioned dashboard, running in Docker Compose.
+- **ServicePulse**: A FastAPI service for registering HTTP endpoints and running on-demand health checks, with PostgreSQL, Docker Compose and NGINX.
+- **System monitoring**: A Python metrics exporter with Prometheus and Grafana configuration, including a provisioned dashboard, running in Docker Compose.
+- **Logs backup**: A Bash script for timestamped log backups with cron scheduling and 30-day retention.
+- **Homelab scripts**: Bash practice and a learning log from a Raspberry Pi homelab.
 
 ## Tools I work with
 
@@ -15,8 +17,8 @@ Linux, Python, Bash, Docker, REST APIs, Grafana, Kibana and AWS CloudWatch.
 
 ## Next steps
 
-- Add automated tests and CI to my projects.
-- Improve monitoring, incident runbooks and backup verification.
+- Learn Ansible by automating the deployment of my monitoring stack to a fresh Linux VM.
+- Add automated tests and CI (GitHub Actions) to my projects.
 - Extend my infrastructure skills with Terraform and Kubernetes labs.
 
 [LinkedIn](https://www.linkedin.com/in/marcin-kaciczak/)
